@@ -1,0 +1,16 @@
+body{
+    /* background-color: black; */
+    text-align: center;
+    background-image: url("https://cdn.mos.cms.futurecdn.net/wjvsWbRwtHGBsFvmoRAZiJ.jpg");
+}
+h1{
+    color:white;
+    display: inline-block;
+    width: 100px;
+    background-color:black;
+}
+button
+{
+    color: white;
+    background-color:black;
+}
